@@ -7,3 +7,4 @@ class Circle extends Shape {
   }
   calculateArea = function () {};
 }
+export default Circle;
